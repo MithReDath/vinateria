@@ -1,0 +1,99 @@
+*{
+	margin: 0;
+	padding: 0;
+	}
+body
+{
+	background:#CCD2D8;
+
+}
+
+header
+{
+	width: 100%;
+	background:#CCD2D8;
+	height: 70px;
+}
+.logocomple
+{
+	width: 80%;
+	height: 70px;
+	
+	margin: auto;
+}
+.logotipo
+{
+	
+	height: 70px;
+	width: 30%;
+	background:#CCD2D8;
+	float: left;
+	padding-top: 10px;
+	
+}
+.logotipo img 
+{
+font-size: 30px;
+text-decoration: none;
+font-weight: bold;
+}
+.logotipo  p
+{
+font-size: 30px;
+text-decoration: none;
+font-weight: bold;
+margin-left:100px;
+}
+nav
+{
+	width: 70%;
+	height: :70px;
+	background: #CCD2D8;
+	float: left;
+	text-align: right;
+	padding-top: 70px;
+	box-sizing: border-box;
+	color:red;
+
+}
+nav ul li
+{
+	display: inline;
+
+}
+nav ul li a
+{
+	color:#fff;
+	font-size: 20px;
+	text-decoration: none;
+	text-transform: uppercase; /* letras en mayusculas */
+	padding-left: 20px;
+	font-weight: bold;
+	letter-spacing: 1px;
+}
+nav ul li a:hover
+{
+	color:#444;
+}
+#usuario
+{
+	width: 500px;
+	height: 400px;
+	margin: auto;
+	margin-top: 180px;
+	font-family:'tahoma';
+	
+
+/*border: 1px solid white;*/
+}
+div#tabla
+{
+	width: 250px;
+	height: 110px;
+	margin: auto;
+	margin-top: 70px;
+	font-family:'tahoma';
+	
+
+/*border: 1px solid white;	*/
+}
